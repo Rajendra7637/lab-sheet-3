@@ -71,16 +71,4 @@ Program 12 asks you to type a TV budget. Press Enter to use 150.
 - **Programs 31-35:** Feature scaling, a second dataset, and saving and
   loading a model with Joblib.
 
-## Results
 
-<Run the programs, then write your MAE, MSE, RMSE and R2 values here.>
-
-## Observations
-
-<Write 3-4 points in your own words after you see your outputs. For example:
-which model was best, what happened when the polynomial degree went up, and
-whether scaling changed the result.>
-
-## Conclusion
-
-<Write 2-3 lines in your own words about what you learned.>
